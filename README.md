@@ -1,5 +1,7 @@
 # stock-trader
 
+Web app to buy/sell stocks 
+
 ## Project setup
 ```
 npm install
