@@ -2,7 +2,7 @@
 
 Web app to buy/sell stocks.
 
-Used the latest libraries such as VueRouter, Vuex, Vuetify, Axios
+Used the latest libraries such as VueRouter, Vuex, Vuetify, Axios and for DB Firebase.
 
 ## Project setup
 ```
