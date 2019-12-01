@@ -1,6 +1,8 @@
 # stock-trader
 
-Web app to buy/sell stocks 
+Web app to buy/sell stocks.
+
+Used the latest libraries such as VueRouter, Vuex, Vuetify, Axios
 
 ## Project setup
 ```
