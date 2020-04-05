@@ -24,9 +24,9 @@
       </div>
       <app-header></app-header>
       <div class="row">
-        <transition name="fade">
+<!--        <transition name="fade">-->
           <router-view></router-view>
-        </transition>
+<!--        </transition>-->
       </div>
     </div>
   </v-app>
